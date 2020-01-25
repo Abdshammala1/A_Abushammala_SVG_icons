@@ -1,0 +1,40 @@
+
+.jumbotron
+{
+    background-color: #525659 !important;
+    
+}
+#Marketplace
+{
+    background-color: #525659 !important;
+    color: white;
+    margin-left: 100px !important;
+    margin-top: -58px;
+}
+#Welcome
+{
+    color: #525659 !important;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+    
+#guitar
+{
+    
+    margin-top: 50px;
+}
+#guitar1
+{
+    
+    margin-top: 50px;
+}
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+    margin-left: 100px !important;
+}
+
+svg:hover {
+  fill: red !important;
+}
